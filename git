@@ -1,0 +1,3 @@
+     UID     PID    PPID  TTY        STIME COMMAND
+   arisa     980       1 cons0    16:02:01 /usr/bin/bash
+   arisa     990     980 cons0    16:02:02 /usr/bin/PS
